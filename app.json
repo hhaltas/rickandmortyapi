@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rickandmortyapi",
+    "slug": "rickandmortyapi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rickandmortyapi"
+}
